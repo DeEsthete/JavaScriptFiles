@@ -114,17 +114,19 @@
 // }
 // alert(result);
 
-var arr = [1,2,3,4,5]
-var arr2 = [];
-arr.reduce(function(sum, current)
-{
-  sum = sum + current;
-  arr2.push(sum);
-  return sum;
-}, 0);
-alert(arr2);
+// var arr = [1,2,3,4,5]
+// var arr2 = [];
+// arr.reduce(function(sum, current)
+// {
+//   sum = sum + current;
+//   arr2.push(sum);
+//   return sum;
+// }, 0);
+// alert(arr2);
 
-klklk
+var date = new Date(2018,10,20);
+alert(date);
+
 
 
 
