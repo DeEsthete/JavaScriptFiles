@@ -124,7 +124,7 @@ arr.reduce(function(sum, current)
 }, 0);
 alert(arr2);
 
-
+klklk
 
 
 
