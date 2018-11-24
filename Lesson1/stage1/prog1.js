@@ -24,10 +24,10 @@
 //   alert(arr[i]);
 // }
 
-var wsx = showMsg("wsx")
-function showMsg(msg)
-{
-  alert(msg);
-  return msg + " complete";
-}
-showMsg(wsx);
+//var wsx = showMsg("wsx")
+//function showMsg(msg)
+//{
+//  alert(msg);
+//  return msg + " complete";
+//}
+//showMsg(wsx);
