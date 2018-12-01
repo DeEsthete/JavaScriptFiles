@@ -10,7 +10,9 @@
   "author": "JeLion",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.16.4",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "mongoose": "^5.3.14"
   }
 }
